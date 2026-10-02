@@ -19,7 +19,7 @@ If the repository is missing, check that you connected the right GitHub account 
 
 ## First task to try
 
-> Create a simple index.html home page for Pau-Repo with a welcome message for Andre. Use plain HTML and CSS, make it work on phones, and explain how to preview it. Prepare the changes for review.
+> Create a simple index.html home page for Pau-Repo with a welcome message. Use plain HTML and CSS, make it work on phones, and explain how to preview it. Prepare the changes for review.
 
 Review the changed files and checks before committing or opening a pull request.
 
