@@ -1,6 +1,6 @@
 # Pau-Repo
 
-A starter repository for Andre to work with ChatGPT and Codex.
+A starter repository to work with ChatGPT and Codex.
 
 ## Getting started
 
