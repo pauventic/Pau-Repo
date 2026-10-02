@@ -2,13 +2,9 @@
 
 A starter repository for Andre to work with ChatGPT and Codex.
 
-## Add this first file to GitHub
+## Getting started
 
-1. Open `pauventic/Pau-Repo` while signed in to GitHub.
-2. On the empty repository page, click **uploading an existing file**.
-3. Upload this `README.md` and commit it with the message `Add starter README`.
-
-You now have an initial commit to start working from.
+This repository is initialized and ready for a first Codex task.
 
 ## Connect the repository to Codex Cloud
 
@@ -44,3 +40,4 @@ Then open the cloned `Pau-Repo` folder as a project in the desktop app and start
 - [ChatGPT and Codex quickstart](https://learn.chatgpt.com/docs/quickstart)
 
 Setup instructions checked on October 2, 2026. Interface labels may change.
+
